@@ -1,4 +1,4 @@
-<h1 align="left">Hi folks' ??</h1>
+<h1 align="left">Hi folks' 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">??? - Enginner Data<br><br>Hello, welcome to my git, Student and enthusiast about technology and data, experienced in various technologies that speed up and optimize the day-to-day process</p>
+<p align="left">🛠️ - Enginner Data<br><br>Hello, welcome to my git, Student and enthusiast about technology and data, experienced in various technologies that speed up and optimize the day-to-day process</p>
 
 ###
 
